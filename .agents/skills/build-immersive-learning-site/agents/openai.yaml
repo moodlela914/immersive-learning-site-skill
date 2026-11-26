@@ -1,0 +1,13 @@
+interface:
+  display_name: 沉浸式教學網頁製作與發布
+  short_description: 製作互動式沉浸教學網站並完成 GitHub Pages 發布
+  default_prompt: 使用 $build-immersive-learning-site 製作校園情境互動網頁並協助發布到 GitHub Pages。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
